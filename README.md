@@ -18,14 +18,14 @@ The analysis of the election shows:
 There were 369,711 total votes cast in the election.
 
 The candidates were:
-1. Charles Casper Stockham
-2. Diana DeGette
-3. Raymond Anthony Doane
+- Charles Casper Stockham
+- Diana DeGette
+- Raymond Anthony Doane
 
 The results were:
--Charles Casper Stockham: 23.0% (85,213)
--Diana DeGette: 73.8% (272,892)
--Raymon Anthony Doane: 3.1% (11,606)
+- Charles Casper Stockham: 23.0% (85,213)
+- Diana DeGette: 73.8% (272,892)
+- Raymon Anthony Doane: 3.1% (11,606)
 
 -The winner was Diana DeGette with 73.8% of the vote at 272,892 votes cast
 
@@ -33,17 +33,17 @@ The results were:
 
 All the counties listed in the original csv file:
 
-1. Jefferson
-2. Denver
-3. Arapahoe
+- Jefferson
+- Denver
+- Arapahoe
 
 A breakdown of the votes by county shows:
 
 Of the total 368,711 votes cast,
 
-1. Jefferson: 10.5% (38,855)
-2. Denver: 82.8% (306,055)
-3. Arapahoe: 6.7% (24,801)
+- Jefferson: 10.5% (38,855)
+- Denver: 82.8% (306,055)
+- Arapahoe: 6.7% (24,801)
 
 Denver county had the largest turnout of 82.8% of the total ballots cast and 306,055 votes cast total.
 
