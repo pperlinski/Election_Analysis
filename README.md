@@ -18,9 +18,9 @@ The analysis of the election shows:
 There were 369,711 total votes cast in the election.
 
 The candidates were:
--Charles Casper Stockham
--Diana DeGette
--Raymond Anthony Doane
+1. Charles Casper Stockham
+2. Diana DeGette
+3. Raymond Anthony Doane
 
 The results were:
 -Charles Casper Stockham: 23.0% (85,213)
@@ -32,19 +32,20 @@ The results were:
 ## Challenge Summary
 
 All the counties listed in the original csv file:
--Jefferson
--Denver
--Arapahoe
+
+1. Jefferson
+2. Denver
+3. Arapahoe
 
 A breakdown of the votes by county shows:
 
 Of the total 368,711 votes cast,
 
--Jefferson: 10.5% (38,855)
--Denver: 82.8% (306,055)
--Arapahoe: 6.7% (24,801)
+1. Jefferson: 10.5% (38,855)
+2. Denver: 82.8% (306,055)
+3. Arapahoe: 6.7% (24,801)
 
--Denver county had the largest turnout of 82.8% of the total ballots cast and 306,055 votes cast total.
+Denver county had the largest turnout of 82.8% of the total ballots cast and 306,055 votes cast total.
 
 
 
