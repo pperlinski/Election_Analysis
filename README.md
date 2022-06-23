@@ -1,6 +1,6 @@
 # Election_Analysis
 
-##Project Overview
+## Project Overview
 A Colorado Board of Elections employee has tasked you with completing the audit of a local congressional election
 
 1. Calculate the total number of votes.
@@ -13,5 +13,5 @@ A Colorado Board of Elections employee has tasked you with completing the audit 
 Data Source: election_results.csv
 Software: Python 3.10, Visual Studeio Code 1.68.1
 
-##Summary
+## Summary
 The analysis of the election shows:
